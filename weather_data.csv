@@ -1,0 +1,21 @@
+city,country,temperature_c,feels_like_c,humidity_pct,description,wind_speed_ms,fetched_at
+Nairobi,KE,24.88,24.65,47,overcast clouds,5.36,2026-04-21 16:26:59.237443
+Lagos,NG,33.86,38.76,52,light rain,3.65,2026-04-21 16:26:59.237443
+Accra,GH,31.23,38.22,70,few clouds,5.66,2026-04-21 16:26:59.237443
+Kampala,UG,26.26,26.26,57,broken clouds,3.18,2026-04-21 16:26:59.237443
+Dar es Salaam,TZ,27.6,31.65,84,light rain,3.47,2026-04-21 16:26:59.237443
+Addis Ababa,ET,26.49,26.49,34,broken clouds,6.69,2026-04-21 16:26:59.237443
+Cairo,EG,24.42,23.73,31,scattered clouds,5.14,2026-04-21 16:26:59.237443
+Johannesburg,ZA,21.21,21.21,70,scattered clouds,6.17,2026-04-21 16:26:59.237443
+Casablanca,MA,20.74,20.65,68,scattered clouds,3.09,2026-04-21 16:26:59.237443
+Dakar,SN,22.36,22.77,81,scattered clouds,7.2,2026-04-21 16:26:59.237443
+Tokyo,JP,16.24,15.2,49,clear sky,4.63,2026-04-21 16:26:59.237443
+Seoul,KR,10.76,9.61,66,sand,2.57,2026-04-21 16:26:59.237443
+Beijing,CN,18.94,17.78,34,overcast clouds,7.38,2026-04-21 16:26:59.237443
+Bangkok,TH,31.93,34.48,51,clear sky,7.87,2026-04-21 16:26:59.237443
+Mumbai,IN,31.99,35.62,55,smoke,5.14,2026-04-21 16:26:59.237443
+Sydney,AU,15.43,15.27,86,overcast clouds,4.89,2026-04-21 16:26:59.237443
+Los Angeles,US,12.37,11.96,88,scattered clouds,2.06,2026-04-21 16:26:59.237443
+New York,US,5.23,2.72,42,clear sky,3.09,2026-04-21 16:26:59.237443
+London,GB,13.46,12.45,61,overcast clouds,5.81,2026-04-21 16:26:59.237443
+Paris,FR,15.52,14.17,40,clear sky,8.23,2026-04-21 16:26:59.237443
