@@ -7,7 +7,7 @@ import pandas as pd
 #we'll use time.sleep() to pause between requests and respect rate limits
 import time
 
-#os.getenv() reads environment variables - values loaded from our env file
+#os.getenv() reads environment variables - values loaded from our env file, csv file
 import os
 
 #load_dotenv() reads the .env file and puts its values into our environment
